@@ -1,2 +1,2 @@
-# error_pages_images
-Error Pages Images
+# HTTP_error_pages_images
+HTTP Error Pages Images
